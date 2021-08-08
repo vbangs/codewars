@@ -1,0 +1,1 @@
+Sum all the numbers of the array except the highest and the lowest element (the value, not the index!).
